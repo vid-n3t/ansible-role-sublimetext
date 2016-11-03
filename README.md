@@ -56,7 +56,7 @@ More extensive set:
 
 ## Dependencies
 
-* [roderik.superlumic-homebrew](https://github.com/superlumic/ansible-role-homebrew)
+* [vid.superlumic-homebrew](https://github.com/superlumic/ansible-role-homebrew)
 
 # Usage
 
